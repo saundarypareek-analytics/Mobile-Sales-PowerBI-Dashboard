@@ -2,7 +2,7 @@
 
 An advanced, interactive multi-page Power BI dashboard designed to analyze retail mobile sales data, track dynamic time-intelligence growth metrics, and discover consumer behavior patterns.
 
-![Mobile Sales Dashboard](My Mobile Sales Dashboard.png)
+![Mobile Sales Dashboard](My%20Mobile%20Sales%20Dashboard.png)
 ## 📌 Project Overview
 This project transforms raw transactional retail data into actionable business intelligence. It provides key stakeholders with micro and macro-level trends regarding brand performance, regional demands, payment preferences, and cumulative period growth.
 
